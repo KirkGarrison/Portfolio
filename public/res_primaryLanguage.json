@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Mini Aracde",
+        "title": "Mini Arcade",
         "startDate": "2021",
         "description": "For this project myself and 3 friends created a 'mini-arcade.' We wanted to design a 80s feeling game, and we came up with a snake game. This game is animated and responsive. (With classic sound effects and voices)",
         "images": [
@@ -37,7 +37,7 @@
       {
         "title": "Cookie Stand",
         "startDate": "2021",
-        "description": "For this project I designed a mock website for an imaginary friend who wanted",
+        "description": "For this project I designed a mock website for an imaginary friend who wanted to start a cookie business. It displays the average cookie sales by the minimum and maximum average customers per hour, multiplied by the average cookies per sale. It also allows the viewer to input a new store, with new values, and adds them to a display table.",
         "images": [
           "images/portfolio/photography/CookieStand.PNG"
         ],
@@ -56,12 +56,11 @@
       {
         "title": "3D Object Viewer",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "This app I designed displays 3 images. The viewer gets to vote for their favorite by clicking which image they like best. Then it renders 3 new images. They vote for 25 rounds, then at the end, it displays which image they chose they most, and how many times they chose it when it was shown",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/BusMall.PNG"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
