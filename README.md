@@ -1,3 +1,3 @@
-# Portfolio
+# Modify this portfolio
 
-Deployed site: kirksportfolio.netlify.app/
+Make it your own! 
