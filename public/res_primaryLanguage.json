@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
@@ -44,18 +44,22 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "BusMall",
+        "startDate": "2021",
         "description": "This app I designed displays 3 images. The viewer gets to vote for their favorite by clicking which image they like best. Then it renders 3 new images. They vote for 25 rounds, then at the end, it displays which image they chose they most, and how many times they chose it when it was shown",
         "images": [
           "images/portfolio/adventure/BusMall.PNG"
@@ -63,16 +67,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       }
@@ -81,35 +85,19 @@
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "09.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript 09.2021"
         ],
         "technologies": [
-          "REST API",
+          "MongoDB",
           "RxJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "CSS",
+          "HTML5"
         ]
       }
     ]

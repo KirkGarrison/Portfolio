@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Kirk Garrison",
-      "titles": [ "CodeFellows graduate with training in the latest Software programs and languages" ],
+      "titles": [ "CodeFellows graduate with experience in the latest Software programs and languages" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "kirk-72dpi-crop-square_100x100.jpg"
+      "image": "kirk-72dpi-crop-square.jpg"
     },
     "skills": {
       "icons": [
@@ -29,11 +29,6 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -44,23 +39,18 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "60"
         }
       ]
