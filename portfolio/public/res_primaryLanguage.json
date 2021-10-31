@@ -1,0 +1,117 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": " I'm Kirk Garrison. Before beginning my software engineering education at CodeFellows, I served in the US Air Force. I'm adept at coordinating, motivating and working within a team to reach our objective. I've always been interesting in computers, and after doing some research, coding really caught my interest.. Ideally I'd like to work with a team to design, create, and troubleshoot applications remotely, and I'd love the opportunity to develop my skillset further as an active member of a programming team.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Mini Aracde",
+        "startDate": "2021",
+        "description": "For this project myself and 3 friends created a 'mini-arcade.' We wanted to design a 80s feeling game, and we came up with a snake game. This game is animated and responsive. (With classic sound effects and voices)",
+        "images": [
+          "images/portfolio/animal-shelter/Final project.PNG"
+          
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Cookie Stand",
+        "startDate": "2021",
+        "description": "For this project I designed a mock website for an imaginary friend who wanted to start a cookie business. It displays the average cookie sales by the minimum and maximum average customers per hour, multiplied by the average cookies per sale. It also allows the viewer to input a new store, with new values, and adds them to a display table.",
+        "images": [
+          "images/portfolio/photography/CookieStand.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
